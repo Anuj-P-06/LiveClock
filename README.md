@@ -13,6 +13,9 @@ A beautiful, responsive live clock application built with React that displays th
 - **Modern UI**: Gradient backgrounds and clean card-based layout
 - **Educational Component**: Built-in explanation of `useEffect` usage
 
+## Screenshot
+<img width="917" height="854" alt="Image" src="https://github.com/user-attachments/assets/368576be-a105-4b2f-a4b4-c88810ea89bd" />
+
 ## 🛠️ Technologies Used
 
 - **React** - Frontend framework
